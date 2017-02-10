@@ -4,14 +4,14 @@ body {
 	background-color: #777;
 	text-align: center;
 	width: 960px;
-	padding: 5px 80px;
+	padding: 5px 100px;
 }
 
 header, nav, footer {
 	background-color: #ebebeb;
 	color: #ababab;
 	padding: 40px;
-	margin: 15px;
+	margin: 10px 15px;
 }
 
 section {
@@ -19,24 +19,24 @@ section {
 	background-color: #ebebeb;
 	color: #ababab;
 	width: 495px;
-	padding: 15px 5px 10px;
-	margin: 15px;
+	padding: 35px 5px 10px;
+	margin: 10px 15px;
 }
 
 aside {
 	float: left;
-	width: 385px;
+	width: 395px;
 	background-color: #ebebeb;
 	color: #ababab;
-	padding: 15px 5px 241px;
-	margin: 15px;
+	padding: 35px 5px 221px;
+	margin: 10px 5px 15px;
 }
 
 article {
 	background-color: #777;
 	color: #ebebeb;
 	padding: 15px;
-	margin: 15px;
+	margin: 5px;
 }
 
 .clear {
