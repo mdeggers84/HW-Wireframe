@@ -5,6 +5,7 @@ body {
 	text-align: center;
 	width: 960px;
 	padding: 5px 100px;
+	margin: 0px;
 }
 
 header, nav, footer {
@@ -36,7 +37,7 @@ article {
 	background-color: #777;
 	color: #ebebeb;
 	padding: 15px;
-	margin: 5px;
+	margin: 20px 5px 5px;
 }
 
 .clear {
